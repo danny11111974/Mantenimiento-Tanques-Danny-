@@ -1,0 +1,6 @@
+{
+  "name": "SGM Tanques API 653 — Mantenimiento Preventivo y Correctivo",
+  "description": "Plataforma técnica interactiva para el registro, control EDT, seguridad SIAHO y sincronización con Google Sheets de mantenimiento preventivo y correctivo en tanques atmosféricos T-2303, T-2208 y T-2209 bajo normativa API 653 / API 650 / ASME.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
